@@ -1,0 +1,12 @@
+*{
+    background-color: #c6ebeb;
+}
+table,tr,td,th {
+    border: 1px solid black;
+}
+h1 {
+    color: rgb(15, 22, 22);
+}
+ ul > li{ 
+    color: rgb(70, 49, 24);
+ }
